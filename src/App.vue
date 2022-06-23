@@ -13,7 +13,7 @@ import '../template/css/style.css'
                     <div class="brand header-brand">
                         <h1 class="m-0">
                             <a href="#">
-								<img class="header-logo-image" src="template/images/logo.svg" alt="Logo">
+								<img class="header-logo-image" src="/template/images/logo.svg" alt="Logo">
                             </a>
                         </h1>
                     </div>
@@ -38,9 +38,9 @@ import '../template/css/style.css'
 						</div>
 						<div class="mockup-container">
 							<div class="mockup-bg">
-								<img src="template/images/iphone-hero-bg.svg" alt="iPhone illustration">
+								<img src="/template/images/iphone-hero-bg.svg" alt="iPhone illustration">
 							</div>
-							<img class="device-mockup" src="template/images/iphone-hero.png" alt="iPhone Hero">
+							<img class="device-mockup" src="/template/images/iphone-hero.png" alt="iPhone Hero">
 						</div>
                     </div>
                 </div>
@@ -53,9 +53,9 @@ import '../template/css/style.css'
 							<div class="feature-extended">
 								<div class="feature-extended-image">
 									<div class="mockup-bg">
-										<img src="template/images/iphone-feature-bg-01.svg" alt="iPhone Feature 01 illustration">
+										<img src="/template/images/iphone-feature-bg-01.svg" alt="iPhone Feature 01 illustration">
 									</div>
-									<img class="device-mockup is-revealing" src="template/images/iphone-feature-01.png" alt="iPhone Feature 01">
+									<img class="device-mockup is-revealing" src="/template/images/iphone-feature-01.png" alt="iPhone Feature 01">
 								</div>
 								<div class="feature-extended-body is-revealing">
 									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
@@ -65,9 +65,9 @@ import '../template/css/style.css'
 							<div class="feature-extended">
 								<div class="feature-extended-image">
 									<div class="mockup-bg">
-										<img src="template/images/iphone-feature-bg-02.svg" alt="iPhone Feature 02 illustration">
+										<img src="/template/images/iphone-feature-bg-02.svg" alt="iPhone Feature 02 illustration">
 									</div>
-									<img class="device-mockup is-revealing" src="template/images/iphone-feature-02.png" alt="iPhone Feature 02">
+									<img class="device-mockup is-revealing" src="/template/images/iphone-feature-02.png" alt="iPhone Feature 02">
 								</div>
 								<div class="feature-extended-body is-revealing">
 									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
@@ -77,9 +77,9 @@ import '../template/css/style.css'
 							<div class="feature-extended">
 								<div class="feature-extended-image">
 									<div class="mockup-bg">
-										<img src="template/images/iphone-feature-bg-03.svg" alt="iPhone Feature 03 illustration">
+										<img src="/template/images/iphone-feature-bg-03.svg" alt="iPhone Feature 03 illustration">
 									</div>
-									<img class="device-mockup is-revealing" src="template/images/iphone-feature-03.png" alt="iPhone Feature 03">
+									<img class="device-mockup is-revealing" src="/template/images/iphone-feature-03.png" alt="iPhone Feature 03">
 								</div>
 								<div class="feature-extended-body is-revealing">
 									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
@@ -89,9 +89,9 @@ import '../template/css/style.css'
 							<div class="feature-extended">
 								<div class="feature-extended-image">
 									<div class="mockup-bg">
-										<img src="template/images/iphone-feature-bg-04.svg" alt="iPhone Feature 04 illustration">
+										<img src="/template/images/iphone-feature-bg-04.svg" alt="iPhone Feature 04 illustration">
 									</div>
-									<img class="device-mockup is-revealing" src="template/images/iphone-feature-04.png" alt="iPhone Feature 04">
+									<img class="device-mockup is-revealing" src="/template/images/iphone-feature-04.png" alt="iPhone Feature 04">
 								</div>
 								<div class="feature-extended-body is-revealing">
 									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
@@ -128,7 +128,7 @@ import '../template/css/style.css'
 					<div class="site-footer-inner">
 						<div class="brand footer-brand">
 							<a href="#">
-								<img src="template/images/logo.svg" alt="Venus logo">
+								<img src="/template/images/logo.svg" alt="Venus logo">
 							</a>
 						</div>
 						<ul class="footer-links list-reset">
